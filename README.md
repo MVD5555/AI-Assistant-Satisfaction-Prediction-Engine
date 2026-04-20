@@ -41,7 +41,6 @@ ai-assistant-satisfaction-engine/
 │ ├── explain.py
 │ └── score_new_sessions.py
 │
-├── requirements.txt
 └── README.md
 
 
